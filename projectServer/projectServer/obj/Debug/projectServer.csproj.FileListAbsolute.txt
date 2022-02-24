@@ -1,0 +1,29 @@
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\bin\Debug\projectServer.exe.config
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\obj\Debug\projectServer.csproj.AssemblyReference.cache
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\obj\Debug\projectServer.csproj.CoreCompileInputs.cache
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\bin\Debug\projectServer.exe
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\bin\Debug\projectServer.pdb
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\obj\Debug\projectServer.exe
+L:\last semester\מערכות להרצת קוד בסביבה בטוחה\projectServer\projectServer\obj\Debug\projectServer.pdb
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\projectServer.exe.config
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\projectServer.exe
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\projectServer.pdb
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\obj\Debug\projectServer.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\obj\Debug\projectServer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\obj\Debug\projectServer.exe
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\obj\Debug\projectServer.pdb
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\SourceAFIS.dll
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\System.Memory.dll
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\SourceAFIS.pdb
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\bin\Debug\SourceAFIS.xml
+C:\Users\Owner\Downloads\projectServer\projectServer\projectServer\obj\Debug\projectServer.csproj.CopyComplete
+P:\projectServer\projectServer\bin\Debug\projectServer.exe.config
+P:\projectServer\projectServer\obj\Debug\projectServer.exe
+P:\projectServer\projectServer\obj\Debug\projectServer.pdb
+P:\projectServer\projectServer\bin\Debug\projectServer.exe
+P:\projectServer\projectServer\bin\Debug\projectServer.pdb
+P:\projectServer\projectServer\bin\Debug\System.Memory.dll
+P:\projectServer\projectServer\bin\Debug\SourceAFIS.pdb
+P:\projectServer\projectServer\bin\Debug\SourceAFIS.xml
+P:\projectServer\projectServer\obj\Debug\projectServer.csproj.AssemblyReference.cache
+P:\projectServer\projectServer\obj\Debug\projectServer.csproj.CoreCompileInputs.cache

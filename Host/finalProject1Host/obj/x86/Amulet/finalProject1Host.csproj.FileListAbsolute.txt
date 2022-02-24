@@ -1,0 +1,5 @@
+L:\last semester\finalProject1\finalProject1Host\finalProject1Host\bin\Amulet\finalProject1Host.exe
+L:\last semester\finalProject1\finalProject1Host\finalProject1Host\bin\Amulet\finalProject1Host.pdb
+L:\last semester\finalProject1\finalProject1Host\finalProject1Host\obj\x86\Amulet\finalProject1Host.csprojResolveAssemblyReference.cache
+L:\last semester\finalProject1\finalProject1Host\finalProject1Host\obj\x86\Amulet\finalProject1Host.exe
+L:\last semester\finalProject1\finalProject1Host\finalProject1Host\obj\x86\Amulet\finalProject1Host.pdb

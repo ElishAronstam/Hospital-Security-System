@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="com.dal.pedal.dalMainClassPackage">finalProject1pkg</entry>
+<entry key="com.dal.pedal.vsVersion">VS2015</entry>
+<entry key="com.dal.pedal.dalRunOption">VS</entry>
+<entry key="com.dal.pedal.dalSupportedPlatfom">23</entry>
+<entry key="com.dal.pedal.dalUUID">5d0e958b-f595-40c3-8253-9b4a85d020ec</entry>
+<entry key="com.dal.pedal.dalProjectVersion">DAL_9</entry>
+<entry key="com.dal.pedal.dalMainClassName">finalProject1</entry>
+<entry key="com.dal.pedal.dalHostProjectLocation">L:\last semester\finalProject1\finalProject1Host</entry>
+<entry key="com.dal.pedal.dalActiveManifest">23</entry>
+<entry key="com.dal.pedal.dalHostProjectName">finalProject1Host</entry>
+</properties>
